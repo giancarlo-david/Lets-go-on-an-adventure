@@ -1,0 +1,13 @@
+﻿  LetsGoOnAnAdventure.cpp
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(73): warning C4101: 'odds': unreferenced local variable
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(74): warning C4101: 'guess': unreferenced local variable
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(463): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(527): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(548): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(569): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(590): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(611): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(632): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gianc\documents\writing code\letsgoonanadventure\letsgoonanadventure\letsgoonanadventure.cpp(653): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LetsGoOnAnAdventure.vcxproj -> C:\Users\gianc\Documents\Writing Code\LetsGoOnAnAdventure\Debug\LetsGoOnAnAdventure.exe
